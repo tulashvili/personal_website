@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>&lt;blog_title&gt;</title>
+        <link>http://localhost:1313/english/</link>
+        <description>Recent content on &lt;blog_title&gt;</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/english/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Elements</title>
+        <link>http://localhost:1313/english/pages/elements/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/english/pages/elements/</guid>
+        <description>&lt;p&gt;Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1
+&lt;/h1&gt;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2
+&lt;/h2&gt;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3
+&lt;/h3&gt;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4
+&lt;/h4&gt;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5
+&lt;/h5&gt;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6
+&lt;/h6&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;emphasis&#34;&gt;Emphasis
+&lt;/h3&gt;&lt;p&gt;The emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Strong emphasis, aka bold, with &lt;strong&gt;asterisks&lt;/strong&gt; or &lt;strong&gt;underscores&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Strike through uses two tildes. &lt;del&gt;Scratch this.&lt;/del&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;link&#34;&gt;Link
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.google.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;I&amp;rsquo;m an inline-style link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.google.com&#34;  title=&#34;Google&amp;#39;s Homepage&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;I&amp;rsquo;m an inline-style link with title&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.themefisher.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;I&amp;rsquo;m a reference-style link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;../blob/master/LICENSE&#34; &gt;I&amp;rsquo;m a relative reference to a repository file&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gethugothemes.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;You can use numbers for reference-style link definitions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Or leave it empty and use the &lt;a class=&#34;link&#34; href=&#34;https://www.getjekyllthemes.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;link text itself&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;URLs and URLs in angle brackets will automatically get turned into links.
+&lt;a class=&#34;link&#34; href=&#34;http://www.example.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www.example.com&lt;/a&gt; or &lt;a class=&#34;link&#34; href=&#34;http://www.example.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www.example.com&lt;/a&gt; and sometimes
+example.com (but not on Github, for example).&lt;/p&gt;
+&lt;p&gt;Some text to show that the reference links can follow later.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;paragraph&#34;&gt;Paragraph
+&lt;/h3&gt;&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;ordered-list&#34;&gt;Ordered List
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;unordered-list&#34;&gt;Unordered List
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;notice&#34;&gt;Notice
+&lt;/h3&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;tab&#34;&gt;Tab
+&lt;/h3&gt;&lt;h4 id=&#34;hey-there-i-am-a-tab&#34;&gt;Hey There, I am a tab
+&lt;/h4&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
+&lt;h4 id=&#34;i-wanna-talk-about-the-assassination-attempt&#34;&gt;I wanna talk about the assassination attempt
+&lt;/h4&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
+&lt;h4 id=&#34;we-know-youre-dealing-in-stolen-ore&#34;&gt;We know you’re dealing in stolen ore
+&lt;/h4&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;accordions&#34;&gt;Accordions
+&lt;/h3&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;code-and-syntax-highlighting&#34;&gt;Code and Syntax Highlighting
+&lt;/h3&gt;&lt;p&gt;This is an &lt;code&gt;Inline code&lt;/code&gt; sample.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;s&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;JavaScript syntax highlighting&amp;#34;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;alert&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;s&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;s &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Python syntax highlighting&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print s
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;flowchart TD
+    A[Start] --&amp;gt; B{Is it?}
+    B -- Yes --&amp;gt; C[OK]
+    C --&amp;gt; D[Rethink]
+    D --&amp;gt; B
+    B -- No ----&amp;gt; E[End]
+&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;blockquote&#34;&gt;Blockquote
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables
+&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Tables&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Are&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Cool&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;col 3 is&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;right-aligned&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;$1600&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;col 2 is&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;centered&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;$12&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;zebra stripes&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;are neat&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;$1&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;image&#34;&gt;Image
+&lt;/h3&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;slider&#34;&gt;Slider
+&lt;/h3&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;youtube-video&#34;&gt;Youtube video
+&lt;/h3&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/ResipmZmpDU&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;custom-video&#34;&gt;Custom video
+&lt;/h3&gt;</description>
+        </item>
+        <item>
+        <title>Privacy</title>
+        <link>http://localhost:1313/english/pages/privacy-policy/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/english/pages/privacy-policy/</guid>
+        <description>&lt;h4 id=&#34;responsibility-of-contributors&#34;&gt;Responsibility of Contributors
+&lt;/h4&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p&gt;
+&lt;p&gt;pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.&lt;/p&gt;
+&lt;h4 id=&#34;gathering-of-personal-information&#34;&gt;Gathering of Personal Information
+&lt;/h4&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p&gt;
+&lt;h4 id=&#34;protection-of-personal--information&#34;&gt;Protection of Personal- Information
+&lt;/h4&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.&lt;/p&gt;
+&lt;p&gt;Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat&lt;/p&gt;
+&lt;h4 id=&#34;privacy-policy-changes&#34;&gt;Privacy Policy Changes
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;Sll the Themefisher items are designed to be with the latest , We check all&lt;/li&gt;
+&lt;li&gt;comments that threaten or harm the reputation of any person or organization&lt;/li&gt;
+&lt;li&gt;personal information including, but limited to, email addresses, telephone numbers&lt;/li&gt;
+&lt;li&gt;Any Update come in The technology Customer will get automatic Notification.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>Ready to build your next project with Hugo?</title>
+        <link></link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description>&lt;img src="http://localhost:1313/images/call-to-action.png" alt="Featured image of post Ready to build your next project with Hugo?" /&gt;</description>
+        </item>
+        <item>
+        <title>What Users Are Saying About Hugoplate</title>
+        <link></link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid></guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
