@@ -1,8 +1,8 @@
-baseurl: https://example.com
+baseurl: https://tulashvili.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: <blog_title>
+title: Tulashvili
 
 module:
     hugoVersion:
@@ -29,7 +29,7 @@ params:
         emoji:
         subtitle:
         avatar:
-            enabled: true
+            enabled: false
             local: true
             src: img/avatar.png
 
